@@ -1,0 +1,10 @@
+P:\ConversionesN\ConversionesMedidas\ConversionesMedidas\bin\Debug\ConversionesMedidas.exe.config
+P:\ConversionesN\ConversionesMedidas\ConversionesMedidas\bin\Debug\ConversionesMedidas.exe
+P:\ConversionesN\ConversionesMedidas\ConversionesMedidas\bin\Debug\ConversionesMedidas.pdb
+P:\ConversionesN\ConversionesMedidas\ConversionesMedidas\obj\Debug\ConversionesMedidas.csproj.AssemblyReference.cache
+P:\ConversionesN\ConversionesMedidas\ConversionesMedidas\obj\Debug\ConversionesMedidas.Form1.resources
+P:\ConversionesN\ConversionesMedidas\ConversionesMedidas\obj\Debug\ConversionesMedidas.Properties.Resources.resources
+P:\ConversionesN\ConversionesMedidas\ConversionesMedidas\obj\Debug\ConversionesMedidas.csproj.GenerateResource.cache
+P:\ConversionesN\ConversionesMedidas\ConversionesMedidas\obj\Debug\ConversionesMedidas.csproj.CoreCompileInputs.cache
+P:\ConversionesN\ConversionesMedidas\ConversionesMedidas\obj\Debug\ConversionesMedidas.exe
+P:\ConversionesN\ConversionesMedidas\ConversionesMedidas\obj\Debug\ConversionesMedidas.pdb
